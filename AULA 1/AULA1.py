@@ -1,0 +1,5 @@
+print('Hello, world!')
+print('estamos em mais um dia desenvolvendo a aula de python')
+print('Apenas desejo que o periodo de provas acabe logo!!!')
+print('finalmente as férias estão chegando')
+print ('assim que as férias chegarem vou conseguir ler meus livros tranquilamente tomando um chá.')
